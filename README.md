@@ -1,2 +1,2 @@
-# learning
+# Learning
 Repo for learning
